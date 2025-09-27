@@ -1,0 +1,30 @@
+h1 {
+    color: rgba(211, 91, 91, 0.603);
+    background-color: rgba(6, 17, 54, 0.39);
+}
+
+h2 {
+    color: blue;
+    background-color: skyblue;
+}
+
+h3 {
+    color: rgb(187, 216, 58);
+    background-color: rgb(236, 134, 245);
+}
+
+p {
+    color: rgb(10, 56, 17);
+}
+
+footer {
+    background-color: rgb(131, 50, 67);
+}
+
+img {
+    background-color: blue;
+    margin: 25px;
+    padding: 25px;
+    border-radius: 30%;
+    border: dotted 90px ghostwhite;
+}
